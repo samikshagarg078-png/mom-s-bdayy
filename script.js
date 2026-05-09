@@ -9,22 +9,22 @@ const sequenceData = [
     {
         text: "love being by ur sidee...🌺🥹",
         btnText: "Pop another ballon/gift box",
-        img: "pic2.jpeg"
+        img: "pic 2.jpeg"
     },
     {
         text: "such a cutie, thanks for supporting me 💌",
         btnText: "pop another baloon or gift box",
-        img: "pic3.jpeg"
+        img: "pic 3.jpeg"
     },
     {
         text: "best memory: our lil night walk+ yap sessions🫶🏻",
         btnText: "pop another baloon or gift box",
-        img: "pic4.jpeg"
+        img: "pic 4.jpeg"
     },
     {
         text: "love u bohot saaaraaaa😽😽😽😽",
         btnText: "See final surprise ✨",
-        img: "pic5.jpeg"
+        img: "pic 5.jpeg"
     }
 ];
 
